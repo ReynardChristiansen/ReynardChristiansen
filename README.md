@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Reynard Christiansen</h1>
 <h3 align="center">A fullstack developer</h3>
 
-<img   src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"
+<img   src="https://i.pinimg.com/originals/61/71/81/6171819be4c31993357d758196c75701.gif"
             alt="Coding"
             width="400"/>
 
