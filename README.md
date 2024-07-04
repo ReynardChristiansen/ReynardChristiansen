@@ -1,7 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/b8/2f/28/b82f28a7e9c8fcb3868d3d94652c107c.gif)
 
 <h1 align="center">Hi 👋, I'm Reynard Christiansen</h1>
-<h3 align="center">A fullstack developer</h3>
+<h3 align="center">A Fullstack Developer</h3>
 
 <img   src="https://i.pinimg.com/originals/61/71/81/6171819be4c31993357d758196c75701.gif"
             alt="Coding"
