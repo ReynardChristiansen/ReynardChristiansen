@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Reynard Christiansen</h1>
 <h3 align="center">A Fullstack Developer</h3>
 
-<img   src="https://i.pinimg.com/originals/61/71/81/6171819be4c31993357d758196c75701.gif"
+<img   src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Toothless-dancing-toothless.gif"
             alt="Coding"
             width="400"/>
 
