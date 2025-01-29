@@ -3,9 +3,11 @@
 <h1 align="center">Hi 👋, I'm Reynard Christiansen</h1>
 <h3 align="center">A Fullstack Developer</h3>
 
-<img   src="https://i.pinimg.com/originals/34/e5/b2/34e5b227af31d0cbeb46e1e90a66db9c.gif"
-            alt="Coding"
-            width="400"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ReynardChristiansen/ReynardChristiansen/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ReynardChristiansen/ReynardChristiansen/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ReynardChristiansen/ReynardChristiansen/output/github-snake.svg" />
+</picture>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reynardchristiansen&label=Profile%20views&color=0e75b6&style=flat" alt="reynardchristiansen" /> </p>
