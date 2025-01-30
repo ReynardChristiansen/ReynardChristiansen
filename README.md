@@ -1,4 +1,4 @@
-![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)
+![MasterHead](https://i.pinimg.com/originals/02/01/1e/02011ec8554277b8c70bf22fb192123c.gif)
 
 <h1 align="center">Hi 👋, I'm Reynard Christiansen</h1>
 <h3 align="center">A Fullstack Developer</h3>
