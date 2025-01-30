@@ -1,4 +1,4 @@
-![MasterHead](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263)
+![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)
 
 <h1 align="center">Hi 👋, I'm Reynard Christiansen</h1>
 <h3 align="center">A Fullstack Developer</h3>
